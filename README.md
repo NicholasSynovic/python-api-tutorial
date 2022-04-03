@@ -3,6 +3,8 @@
 > Jupyter Notebook on using the `urllib` and `requests` library to `GET` data from
 a REST API
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicholasSynovic/python-api-tutorial/blob/main/tutorial.ipynb)
+
 ## Table of Contents
 
 - [Python3 API Tutorial](#python3-api-tutorial)
